@@ -41,8 +41,7 @@ This repository presents a rigorous, iso-parameter benchmark between two state-o
 │  • Low-Power Autonomy   │      │  • Binary Footprint (MB) │
 
 
-
----
+```
 
 ## 🔬 Dataset Engineering & Statistical Audit
 
