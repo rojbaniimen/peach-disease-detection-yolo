@@ -75,11 +75,17 @@ From an electrical and embedded systems engineering perspective, **YOLO26n-cls i
 
 ### 1. YOLOv11 Real-Time Inference Stream
 
-https://github.com/user-attachments/assets/0120991f-9039-4b69-8f88-f59c1e226fc8
+
+https://github.com/user-attachments/assets/642301ee-ebbf-49cf-9ea5-5bd93090148b
+
 
 ### 2. YOLO26 Ultra-Fast Edge Inference Stream
 
-https://github.com/user-attachments/assets/373cee1f-959c1e226fc8
+
+
+https://github.com/user-attachments/assets/7ca43486-2db0-4964-b02a-46c51e088f4f
+
+
 
 ---
 
